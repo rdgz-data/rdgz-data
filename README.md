@@ -10,8 +10,13 @@
 <section>
   <h2>Quién soy</h2>
   <p>
-    Soy metódico, orientado al crecimiento y apasionado por soluciones elegantes y legibles. Combino rigor técnico con empatía y comunicación clara.
-    Me motiva construir flujos reproducibles y herramientas reutilizables que lleven la analítica y la IA a la industria con impacto real.
+    Soy Dayron Rodríguez Díaz, ingeniero en automatización industrial en transición hacia el mundo del Big Data, 
+    la Ciencia de Datos y la Inteligencia Artificial. Me apasiona transformar datos en conocimiento útil y 
+    soluciones prácticas, combinando la precisión técnica con una comunicación clara y humana. Mi enfoque está 
+    en construir flujos de trabajo reproducibles, herramientas reutilizables y proyectos que impulsen la 
+    transformación digital en la Industria 4.0. Me definen la disciplina, la curiosidad constante y el compromiso 
+    de hacer que la tecnología tenga un impacto real y accesible en todos los sectores.
+
   </p>
 </section>
 
