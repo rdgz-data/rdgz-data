@@ -1,8 +1,14 @@
 <!-- README.html (puedes pegarlo directamente en tu README.md usando bloques HTML) -->
 <div align="center">
-  <h1>Dayron Rodríguez Díaz</h1>
-  <p><em>Ingeniero en automatización industrial — en transición a Data Science, Big Data y AI</em></p>
+  <h1>Dayron Rodríguez 👨🏻‍💻</h1>
+  <p><em>Ingeniero — en transición a Data Science, Big Data y AI</em></p>
+  <div align="center" style="font-size:40px;">
+  📊
+</div>
   <p>Madrid, España · Universidad Complutense de Madrid</p>
+   <div align="center" style="font-size:40px;">
+  🇪🇸�
+</div>
 </div>
 
 <hr>
@@ -10,12 +16,12 @@
 <section>
   <h2>Quién soy</h2>
   <p>
-    Soy Dayron Rodríguez Díaz, ingeniero en automatización industrial en transición hacia el mundo del Big Data, 
-    la Ciencia de Datos y la Inteligencia Artificial. Me apasiona transformar datos en conocimiento útil y 
-    soluciones prácticas, combinando la precisión técnica con una comunicación clara y humana. Mi enfoque está 
-    en construir flujos de trabajo reproducibles, herramientas reutilizables y proyectos que impulsen la 
-    transformación digital en la Industria 4.0. Me definen la disciplina, la curiosidad constante y el compromiso 
-    de hacer que la tecnología tenga un impacto real y accesible en todos los sectores.
+    Ingeniero en automatización industrial en transición hacia el mundo del Big Data, la Ciencia de Datos 
+    y la Inteligencia Artificial. Me apasiona transformar datos en conocimiento útil y soluciones prácticas,
+    combinando la precisión técnica con una comunicación clara y humana. Mi enfoque está en construir flujos
+    de trabajo reproducibles, herramientas reutilizables y proyectos que impulsen la transformación digital
+    en la Industria 4.0. Me definen la disciplina, la curiosidad constante y el compromiso de hacer que la 
+    tecnología tenga un impacto real y accesible en todos los sectores.
 
   </p>
 </section>
