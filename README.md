@@ -1,7 +1,7 @@
 <!-- README.html (puedes pegarlo directamente en tu README.md usando bloques HTML) -->
 <div align="center">
   <h1>Dayron Rodríguez 👨🏻‍💻</h1>
-  <p><em>Ingeniero — en transición a Data Science, Big Data y AI 📊</em></p>
+  <p>Ingeniero — en transición a Data Science, Big Data y AI</p>
  
   <p>Madrid, España · Universidad Complutense de Madrid</p>
 </div>
