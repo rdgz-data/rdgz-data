@@ -39,7 +39,6 @@
     <li><strong>Datos:</strong> SQL, NoSQL, Python, MongoDB, NumPy, Pandas, Matplotlib, Seaborn</li>
     <li><strong>Visualización:</strong> Tableau, Power BI</li>
     <li><strong>Automatización e Industria:</strong> SCADA, Integración IoT, Monitoreo predictivo</li>
-    <li><strong>Extra:</strong> Lenguaje Ensamblador, MATLAB, C, C++, C#, Lenguaje Ladder</li>
     <li><strong>Analítica y AI:</strong> Estadística, EDA, Machine Learning, Big Data</li>
     <li><strong>Extra:</strong> Lenguaje Ensamblador, MATLAB, C, C++, C#, Lenguaje Ladder</li>
   </ul>
