@@ -11,13 +11,12 @@
 <section>
   <h2>Quién soy</h2>
   <p>
-    Ingeniero en automatización industrial en transición hacia el mundo del Big Data, la Ciencia de Datos 
-    y la Inteligencia Artificial. Me apasiona transformar datos en conocimiento útil y soluciones prácticas,
-    combinando la precisión técnica con una comunicación clara y humana. Mi enfoque está en construir flujos
-    de trabajo reproducibles, herramientas reutilizables y proyectos que impulsen la transformación digital
-    en la Industria 4.0. Me definen la disciplina, la curiosidad constante y el compromiso de hacer que la 
-    tecnología tenga un impacto real y accesible en todos los sectores.
-
+    Ingeniero en transición hacia el mundo del Big Data, la Ciencia de Datos y la Inteligencia Artificial.
+    Me apasiona transformar datos en conocimiento útil y soluciones prácticas, combinando la precisión 
+    técnica con una comunicación clara y humana. Mi enfoque está en construir flujos de trabajo reproducibles, 
+    herramientas reutilizables y proyectos que impulsen la transformación digital en la Industria 4.0. 
+    Me definen la disciplina, la curiosidad constante y el compromiso de hacer que la tecnología tenga un impacto
+    real y accesible en todos los sectores.
   </p>
 </section>
 
