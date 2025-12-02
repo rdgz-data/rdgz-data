@@ -61,7 +61,7 @@
   <!-- Añade tus enlaces reales a continuación -->
   <p>
     <a href="https://github.com/rdgz-data" target="_blank">GitHub</a> ·
-    <a href="https://www.linkedin.com/in/dayron-rodriguez" target="_blank">LinkedIn</a> ·
+    <a href="https://www.linkedin.com/in/dayron-rodríguez" target="_blank">LinkedIn</a> ·
     <a href="https://kaggle.com/dayronrodrguez" target="_blank">Kaggle</a>
   </p>
 </div>
