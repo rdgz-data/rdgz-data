@@ -10,28 +10,30 @@
 
 <section>
   <h2>Quién soy</h2>
+  <div align="center" style="font-size:45px;">
+    ⚙️ 📊 🤖 🚀
+  </div>
   <p>
-    Ingeniero en transición hacia el mundo del Big Data, la Ciencia de Datos y la Inteligencia Artificial.
-    Me apasiona transformar datos en conocimiento útil y soluciones prácticas, combinando la precisión 
-    técnica con una comunicación clara y humana. Mi enfoque está en construir flujos de trabajo reproducibles, 
-    herramientas reutilizables y proyectos que impulsen la transformación digital en la Industria 4.0. 
-    Me definen la disciplina, la curiosidad constante y el compromiso de hacer que la tecnología tenga un impacto
-    real y accesible en todos los sectores.
+    Ingeniero en automatización industrial en transición hacia Big Data, Ciencia de Datos e Inteligencia Artificial.  
+    Experiencia con sistemas SCADA, sensores IoT y simulación de procesos.  
+    Hoy aplico esa base para proyectos de datos, visualización y soluciones inteligentes que impulsen la Industria 4.0.  
+    Me definen la disciplina, la curiosidad y el compromiso de convertir datos en impacto real.
   </p>
 </section>
+
 
 <section>
   <h2>Formación</h2>
   <ul>
     <li><strong>Máster (en curso):</strong> Big Data, Data Science y AI — Universidad Complutense de Madrid</li>
-    <li>Ingeniería: Automatización industrial — formación en teoría de control, modelado y simulación de procesos, instrumentación y sistemas SCADA. Estas competencias me permitieron trabajar con datos de sensores, optimización de procesos y visualización en tiempo real, experiencias que hoy sirven como base para proyectos de Big Data, Machine Learning y IA aplicada.</li>
+    <li>Ingeniería: Automatización industrial — formación en teoría de control, modelado y simulación de procesos, instrumentación y sistemas SCADA. Estas competencias me permitieron trabajar con datos de sensores, optimización de procesos y visualización en tiempo real, experiencias que hoy sirven como base para proyectos de Big Data, Machine Learning e IA aplicada.</li>
   </ul>
 </section>
 
 <section>
   <h2>Competencias técnicas</h2>
   <ul>
-    <li><strong>Datos:</strong> SQL, Python, MongoDB</li>
+    <li><strong>Datos:</strong> SQL, NoSQL, Python, MongoDB,</li>
     <li><strong>Visualización:</strong> Tableau, Power BI</li>
     <li><strong>Automatización e Industria:</strong> SCADA, integración IoT, monitoreo predictivo</li>
     <li><strong>Analítica y AI:</strong> Estadística, EDA, Machine Learning, Big Data</li>
