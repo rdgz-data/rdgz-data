@@ -24,7 +24,7 @@
   <h2>Formación</h2>
   <ul>
     <li><strong>Máster (en curso):</strong> Big Data, Data Science y AI — Universidad Complutense de Madrid</li>
-    <li><strong>Ingeniería:</strong> Automatización industrial — formación en <em>teoría de control</em>, <em>modelado y simulación de procesos</em>, <em>instrumentación</em> y <em>sistemas SCADA</em>. Estas competencias me permitieron trabajar con <strong>datos de sensores</strong>, <strong>optimización de procesos</strong> y <strong>visualización en tiempo real</strong>, experiencias que hoy sirven como base para proyectos de <strong>Big Data</strong>, <strong>Machine Learning</strong> y <strong>IA aplicada</strong>.</li>
+    <li>Ingeniería: Automatización industrial — formación en teoría de control, modelado y simulación de procesos, instrumentación y sistemas SCADA. Estas competencias me permitieron trabajar con datos de sensores, optimización de procesos y visualización en tiempo real, experiencias que hoy sirven como base para proyectos de Big Data, Machine Learning y IA aplicada.</li>
   </ul>
 </section>
 
