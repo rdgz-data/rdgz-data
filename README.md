@@ -10,9 +10,6 @@
 
 <section>
   <h2>Quién soy</h2>
-  <div align="center" style="font-size:45px;">
-    ⚙️ 📊 🤖 🚀
-  </div>
   <p>
     Ingeniero en automatización industrial en transición hacia Big Data, Ciencia de Datos e Inteligencia Artificial.  
     Experiencia con sistemas SCADA, sensores IoT y simulación de procesos.  
@@ -24,9 +21,6 @@
 
 <section>
   <h2>Formación</h2>
-  <div align="center" style="font-size:45px;">
-    🎓 📚 🔬 🛠️
-  </div>
   <p>
     Máster en Big Data, Ciencia de Datos e Inteligencia Artificial — Universidad Complutense de Madrid.  
     Ingeniería en Automatización Industrial — formación en teoría de control, modelado de procesos, instrumentación y sistemas SCADA.  
@@ -37,49 +31,12 @@
 <section>
   <h2>Competencias técnicas</h2>
   <ul>
-    <li><strong>Datos:</strong> SQL, NoSQL, Python, MongoDB,</li>
+    <li><strong>Datos:</strong> SQL, NoSQL, Python, MongoDB, NumPy, Pandas, Matplotlib, Seaborn</li>
     <li><strong>Visualización:</strong> Tableau, Power BI</li>
-    <li><strong>Automatización e Industria:</strong> SCADA, integración IoT, monitoreo predictivo</li>
+    <li><strong>Automatización e Industria:</strong> SCADA, Integración IoT, Monitoreo predictivo</li>
+    <li><strong>Extra:</strong> Lenguaje Ensamblador, MATLAB, C, C++, C#, Lenguaje Ladder</li>
     <li><strong>Analítica y AI:</strong> Estadística, EDA, Machine Learning, Big Data</li>
-    <li><strong>Workflow:</strong> Documentación, reproducibilidad y optimización de procesos</li>
-  </ul>
-</section>
-
-<section>
-  <h2>Experiencia y proyectos</h2>
-  <ul>
-    <li><strong>Optimización BHS en aeropuertos:</strong> Lideré proyectos de automatización en terminales, analizando datos para mejorar sistemas de manejo de equipaje.</li>
-    <li><strong>Dashboards SCADA:</strong> Desarrollé paneles para monitoreo predictivo de equipos.</li>
-    <li><strong>IoT en tiempo real:</strong> Integré sensores para análisis de rendimiento y toma de decisiones.</li>
-    <li><strong>Coordinación interdisciplinar:</strong> Proyectos de decisión data-driven con equipos diversos.</li>
-    <li><strong>Prácticas en automatización aeroportuaria:</strong> Recolección de datos, visualización y simulación de procesos.</li>
-  </ul>
-</section>
-
-<section>
-  <h2>Intereses</h2>
-  <ul>
-    <li><strong>Aprendizaje continuo:</strong> Cursos estructurados y proyectos reales</li>
-    <li><strong>Industry 4.0:</strong> Llevar la IA a todos los sectores</li>
-    <li><strong>Python legible:</strong> Flujos robustos y reutilizables</li>
-    <li><strong>Dashboards:</strong> Optimización avanzada en Tableau</li>
-    <li><strong>Marca profesional:</strong> Privacidad estratégica y visibilidad con impacto</li>
-  </ul>
-</section>
-
-<section>
-  <h2>Objetivos</h2>
-  <h3>Corto plazo</h3>
-  <ul>
-    <li><strong>Publicar proyectos:</strong> SQL (eventos), MongoDB (accidentes), Python (portal de empleo) con documentación y reproducibilidad (GitHub, LinkedIn, Kaggle).</li>
-    <li><strong>Perfil público:</strong> Bio y README concisos y visuales.</li>
-    <li><strong>LinkedIn:</strong> Post y perfil que muestren fortalezas técnicas y humanas.</li>
-    <li><strong>Privacidad:</strong> Balancear exposición y organización de notebooks y código.</li>
-  </ul>
-  <h3>Largo plazo</h3>
-  <ul>
-    <li><strong>Proyectos híbridos:</strong> Ingeniería + analítica + IA para transformación digital en Industry 4.0.</li>
-    <li><strong>Impacto de la IA:</strong> Hacerla accesible y útil en múltiples industrias.</li>
+    <li><strong>Extra:</strong> Lenguaje Ensamblador, MATLAB, C, C++, C#, Lenguaje Ladder</li>
   </ul>
 </section>
 
@@ -93,25 +50,6 @@
   </ul>
 </section>
 
-<section>
-  <h2>Desafíos actuales</h2>
-  <ul>
-    <li><strong>Transición de carrera:</strong> De automatización a analítica avanzada y roles de IA.</li>
-    <li><strong>Marca profesional:</strong> Equilibrar profundidad técnica con valores humanos.</li>
-    <li><strong>Privacidad vs. visibilidad:</strong> Mostrar actividad sin comprometer información sensible.</li>
-    <li><strong>Tableau avanzado:</strong> Cálculos, formato profesional y resolución de bugs en flujos.</li>
-  </ul>
-</section>
-
-<section>
-  <h2>Valores</h2>
-  <ul>
-    <li><strong>Claridad y autenticidad:</strong> Código correcto y comunicación humana.</li>
-    <li><strong>Respeto y colaboración:</strong> Relaciones profesionales sólidas con mentores y equipos.</li>
-    <li><strong>Impacto real:</strong> Soluciones que mejoran eficiencia y decisiones.</li>
-  </ul>
-</section>
-
 <hr>
 
 <div align="center">
@@ -122,5 +60,4 @@
     <a href="https://www.linkedin.com/in/dayron-rodriguez" target="_blank">LinkedIn</a> ·
     <a href="https://kaggle.com/dayronrodrguez" target="_blank">Kaggle</a>
   </p>
-  <p><em>Privacidad y visibilidad en equilibrio. Documentación clara. Impacto medible.</em></p>
 </div>
