@@ -55,6 +55,15 @@
 
 <hr>
 
+<!-- Nueva sección de Portfolio -->
+<section>
+  <h2>Portfolio</h2>
+  <p>
+    To check out my projects and see my work in detail, visit my portfolio:  
+    <a href="https://rdgz-data.github.io/" target="_blank"><strong>rdgz-data.github.io</strong></a>
+  </p>
+</section>
+
 <div align="center">
   <p><strong>Connect with me</strong></p>
   <!-- Add your real links below -->
