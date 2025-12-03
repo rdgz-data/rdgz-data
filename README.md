@@ -11,10 +11,7 @@
 <section>
   <h2>About Me</h2>
   <p>
-    Industrial automation engineer transitioning into Big Data, Data Science and Artificial Intelligence.  
-    Experienced with SCADA systems, IoT sensors and process simulation.  
-    Today I apply that foundation to data projects, visualization, and intelligent solutions that drive Industry 4.0.  
-    Defined by discipline, curiosity, and a commitment to turning data into real impact.
+    Engineer with experience in the integration of intelligent systems and data analysis, focused on the challenges of Industry 4.0. I have worked on process optimization by applying an analytical approach to improve operational efficiency. Currently, I am advancing my career in Big Data and Artificial Intelligence, developing predictive models and data-driven business strategies that generate tangible value and support decision-making in digital transformation environments.
   </p>
 </section>
 
