@@ -1,64 +1,63 @@
-<!-- README.html (puedes pegarlo directamente en tu README.md usando bloques HTML) -->
+<!-- README.html (you can paste this directly into your README.md using HTML blocks) -->
 <div align="center">
   <h1>Dayron Rodríguez 👨🏻‍💻</h1>
-  <p>Ingeniero — en transición a Data Science, Big Data y AI</p>
+  <p>Engineer — transitioning to Data Science, Big Data and AI</p>
  
-  <p>Madrid, España · Universidad Complutense de Madrid</p>
+  <p>Madrid, Spain · Complutense University of Madrid</p>
 </div>
 
 <hr>
 
 <section>
-  <h2>Quién soy</h2>
+  <h2>About Me</h2>
   <p>
-    Ingeniero en automatización industrial en transición hacia Big Data, Ciencia de Datos e Inteligencia Artificial.  
-    Experiencia con sistemas SCADA, sensores IoT y simulación de procesos.  
-    Hoy aplico esa base para proyectos de datos, visualización y soluciones inteligentes que impulsen la Industria 4.0.  
-    Me definen la disciplina, la curiosidad y el compromiso de convertir datos en impacto real.
+    Industrial automation engineer transitioning into Big Data, Data Science and Artificial Intelligence.  
+    Experienced with SCADA systems, IoT sensors and process simulation.  
+    Today I apply that foundation to data projects, visualization, and intelligent solutions that drive Industry 4.0.  
+    Defined by discipline, curiosity, and a commitment to turning data into real impact.
   </p>
 </section>
 
-
 <section>
-  <h2>Formación</h2>
+  <h2>Education</h2>
   <ul>
     <li>
-      Máster en Big Data, Ciencia de Datos e Inteligencia Artificial — Universidad Complutense de Madrid
+      Master’s in Big Data, Data Science and Artificial Intelligence — Complutense University of Madrid
     </li>
     <li>
-      Ingeniería en Automatización Industrial — formación en teoría de control, modelado de procesos, 
-      instrumentación y sistemas SCADA. Experiencia en simulación, análisis de datos de sensores y 
-      optimización de procesos, que hoy sirven como base para proyectos de Big Data, Machine Learning e IA aplicada.
+      Degree in Industrial Automation Engineering — training in control theory, process modeling,  
+      instrumentation and SCADA systems. Experience in simulation, sensor data analysis and  
+      process optimization, now serving as a foundation for projects in Big Data, Machine Learning and applied AI.
     </li>
   </ul>
 </section>
 
 <section>
-  <h2>Competencias técnicas</h2>
+  <h2>Technical Skills</h2>
   <ul>
-    <li><strong>Datos:</strong> SQL, NoSQL, Python, MongoDB, NumPy, Pandas, Matplotlib, Seaborn</li>
-    <li><strong>Visualización:</strong> Tableau, Power BI</li>
-    <li><strong>Automatización e Industria:</strong> SCADA, Integración IoT, Monitoreo predictivo</li>
-    <li><strong>Analítica y AI:</strong> Estadística, EDA, Machine Learning, Big Data</li>
-    <li><strong>Extra:</strong> Lenguaje Ensamblador, MATLAB, C, C++, C#, Lenguaje Ladder</li>
+    <li><strong>Data:</strong> SQL, NoSQL, Python, MongoDB, NumPy, Pandas, Matplotlib, Seaborn</li>
+    <li><strong>Visualization:</strong> Tableau, Power BI</li>
+    <li><strong>Automation & Industry:</strong> SCADA, IoT Integration, Predictive Monitoring</li>
+    <li><strong>Analytics & AI:</strong> Statistics, EDA, Machine Learning, Big Data</li>
+    <li><strong>Extra:</strong> Assembly Language, MATLAB, C, C++, C#, Ladder Logic</li>
   </ul>
 </section>
 
 <section>
-  <h2>Fortalezas personales</h2>
+  <h2>Personal Strengths</h2>
   <ul>
-    <li><strong>Pensamiento analítico:</strong> Resolver problemas con claridad y orden.</li>
-    <li><strong>Comunicación profesional:</strong> Documentar y explicar con empatía.</li>
-    <li><strong>Trabajo en equipo:</strong> Coordinación interdisciplinar y toma de decisiones basada en datos.</li>
-    <li><strong>Disciplina y reproducibilidad:</strong> Flujos auditables y mantenibles.</li>
+    <li><strong>Analytical Thinking:</strong> Solving problems with clarity and structure.</li>
+    <li><strong>Professional Communication:</strong> Documenting and explaining with empathy.</li>
+    <li><strong>Teamwork:</strong> Interdisciplinary coordination and data-driven decision making.</li>
+    <li><strong>Discipline & Reproducibility:</strong> Auditable and maintainable workflows.</li>
   </ul>
 </section>
 
 <hr>
 
 <div align="center">
-  <p><strong>Conecta conmigo</strong></p>
-  <!-- Añade tus enlaces reales a continuación -->
+  <p><strong>Connect with me</strong></p>
+  <!-- Add your real links below -->
   <p>
     <a href="https://github.com/rdgz-data" target="_blank">GitHub</a> ·
     <a href="https://www.linkedin.com/in/dayron-rodríguez" target="_blank">LinkedIn</a> ·
