@@ -59,14 +59,15 @@
 <section>
   <h2>Portfolio</h2>
   <p>
-    To check out my projects and see my work in detail, visit my portfolio:  
-    <a href="https://rdgz-data.github.io/" target="_blank"><strong>rdgz-data.github.io</strong></a>
+    To check out my projects and see my work in detail:
   </p>
+  <a href="https://rdgz-data.github.io/" target="_blank" class="button large">Portfolio</a>
 </section>
+
+<hr>
 
 <div align="center">
   <p><strong>Connect with me</strong></p>
-  <!-- Add your real links below -->
   <p>
     <a href="https://github.com/rdgz-data" target="_blank">GitHub</a> ·
     <a href="https://www.linkedin.com/in/dayron-rodríguez" target="_blank">LinkedIn</a> ·
