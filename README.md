@@ -53,21 +53,24 @@
 <hr>
 
 <!-- Nueva sección de Portfolio -->
-<section>
-  <h2>Portfolio</h2>
-  <p>
-    To check out my projects and see my work in detail:
-  </p>
-  <a href="https://rdgz-data.github.io/" target="_blank" class="button large">Portfolio</a>
-</section>
+## 📂 Portfolio
+To check out my projects and see my work in detail:
 
-<hr>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=githubpages)](https://rdgz-data.github.io/)
 
-<div align="center">
-  <p><strong>Connect with me</strong></p>
-  <p>
-    <a href="https://github.com/rdgz-data" target="_blank">GitHub</a> ·
-    <a href="https://www.linkedin.com/in/dayron-rodríguez" target="_blank">LinkedIn</a> ·
-    <a href="https://kaggle.com/dayronrodrguez" target="_blank">Kaggle</a>
-  </p>
-</div>
+---
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://github.com/rdgz-data" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dayron-rodríguez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://kaggle.com/dayronrodrguez" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
+
